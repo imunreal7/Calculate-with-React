@@ -64,7 +64,7 @@ Ensure you have the following installed on your machine:
 
 ## Screenshot
 
-![Calculator Screenshot](./assets/image.png)
+![Calculator Screenshot](./public/image.png)
 
 ## Contributing
 
@@ -77,4 +77,8 @@ We welcome contributions to improve this project! If you'd like to contribute, p
     ```bash
     git checkout -b feature/new-feature
     ```
+
+## Author
+
+Developed by Aman Dubey.
 
